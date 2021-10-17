@@ -1,0 +1,34 @@
+.horizontalScroll{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    overflow: auto;
+    white-space: nowrap;
+    overflow-x: scroll;
+    position: relative;
+
+    padding-right: 16px;
+    padding-left: 24px;
+    div{
+        margin-right: 29px;
+       
+    }
+}
+.horizontalScroll >div:last-child{
+    padding-right: 16px;
+}
+.circle{
+    background-color: #f6f6f6;
+    border-radius: 50%;
+    height: 56px;
+    width: 56px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.listName{
+    position: relative;
+    left: -12px;
+    margin-top: 0.4rem;
+    color: #888888;
+}

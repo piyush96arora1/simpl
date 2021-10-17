@@ -1,0 +1,68 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Roboto, sans-serif;
+  background: #e5e5e5;
+}
+
+* {
+  box-sizing: border-box;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+}
+.center {
+  justify-content: center;
+  align-items: center;
+}
+
+.font1 {
+  font-size: 0.5rem;
+  font-weight: 400;
+}
+.font2 {
+  font-size: 0.6rem;
+  font-weight: 400;
+}
+
+.font3 {
+  font-size: 0.9rem;
+}
+.font4 {
+  font-size: 0.7rem;
+}
+.font5 {
+  font-size: 0.8rem;
+}
+.color-primary {
+  color: #00d1c1;
+}
+.block {
+  display: block;
+}
+.font-weight-500 {
+  font-weight: 400;
+}
+.font-weight-500 {
+  font-weight: 500;
+}
+.font-weight-600 {
+  font-weight: 600;
+}
+
+.relative{
+  position: relative;
+}
+.alignCenter{
+  display: flex;
+  align-items: center;
+}
+.pointer{
+  cursor: pointer;
+}
