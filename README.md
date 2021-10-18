@@ -22,9 +22,9 @@ You will also see any lint errors in the console.
 
                                 Some Screen Shots:
 ### `1`
-![alt text](https://github.com/piyush96arora1/simpl/blob/master/public/Capture1.PNG)
+![simpl ss](https://github.com/piyush96arora1/simpl/blob/main/public/Capture1.png)
 
 -------------------------------------------------------------------------------------------------------------
 
 ### `2`
-![alt text](https://github.com/piyush96arora1/simpl/blob/master/public/Capture2.PNG)
+![simpl ss](https://github.com/piyush96arora1/simpl/blob/main/public/Capture1.png)
