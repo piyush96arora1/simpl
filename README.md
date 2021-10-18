@@ -27,4 +27,4 @@ You will also see any lint errors in the console.
 -------------------------------------------------------------------------------------------------------------
 
 ### `2`
-![simpl ss](https://github.com/piyush96arora1/simpl/blob/main/public/Capture1.png)
+![simpl ss](https://github.com/piyush96arora1/simpl/blob/main/public/Capture2.png)
