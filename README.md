@@ -3,5 +3,7 @@ Simpl Application
 Tech Used: NEXTJS
 
 To the project:
-  npm install
-  npm run dev
+  
+  1-> npm install
+ 
+  2-> npm run dev
